@@ -4,9 +4,9 @@
 
 # 👨🏻‍💻 Filipe Oliveira
 
-**`Estudante de Desenvolvimento Front-End`**
+**`Estudante de Bacharel em Tecnologia da Informação (UNIVESP)`**
 
-Tenho 35 anos, sou músico e moro em Ferraz de Vasconcelos/SP. Me formei em Tecnologia em Análise e Desenvolvimento de Sistemas pela Anhanguera Unibero em 2010. Sempre fui apaixonado por tecnologia, e hoje voltei a estudar Desenvolvimento Web.
+Tenho 36 anos, sou músico e moro em Ferraz de Vasconcelos/SP. Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas (Anhanguera Unibero - 2010). Sempre fui apaixonado por tecnologia, e hoje estou no segundo semestre de Bacharel em Tecnologia da Informação pela UNIVESP (Universidade Virtual do Estado de São Paulo)
 
 ---
 
