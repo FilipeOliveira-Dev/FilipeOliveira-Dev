@@ -6,30 +6,17 @@
 
 **`Estudante de Bacharel em Tecnologia da Informação (UNIVESP)`**
 
-Tenho 36 anos, sou músico e moro em Ferraz de Vasconcelos/SP. Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas (Anhanguera Unibero - 2010). Sempre fui apaixonado por tecnologia, e hoje estou no segundo semestre de Bacharel em Tecnologia da Informação pela UNIVESP (Universidade Virtual do Estado de São Paulo)
+Tenho 36 anos, sou músico e moro em Ferraz de Vasconcelos/SP. Sou formado em Tecnólógo em ADS (Anhanguera Unibero - 2010). Sempre fui apaixonado por tecnologia, e hoje estou no segundo semestre de <b>Bacharel em Tecnologia da Informação pela UNIVESP (Universidade Virtual do Estado de São Paulo)</b>.
 
 ---
 
-<p align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=FilipeOliveira-Dev&show_icons=true&count_private=true&hide_border=false&title_color=5dcbf3&icon_color=5dcbf3&text_color=ffffff&theme=dark" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOliveira-Dev&layout=compact&hide_border=false&title_color=5dcbf3&text_color=ffffff&theme=dark" 
-  />
+<img align="left" alt="GitHub Stats" 
+      src="https://github-readme-stats-green-pi-13.vercel.app/api/top-langs/?username=FilipeOliveira-Dev&layout=normal&hide_border=false&title_color=5dcbf3&text_color=ffffff&theme=dark" />
 </p>
 
+![Filie Oliveira's GitHub stats](https://github-readme-stats-green-pi-13.vercel.app/api?username=FilipeOliveira-Dev&show_icons=true&hide_border=false&show=reviews&title_color=5dcbf3&text_color=ffffff&theme=dark)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FilipeOliveira-Dev&bg_color=000000&color=5dcbf3&line=b4e4f4&point=b4e4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+</br>
 
 ## 🤖 Linguagens e Tecnologias
 
