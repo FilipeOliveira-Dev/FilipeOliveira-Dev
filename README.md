@@ -4,97 +4,60 @@
 
 # 👨🏻‍💻 Filipe Oliveira
 
-**`Estudante de Bacharel em Tecnologia da Informação (UNIVESP)`**
+**`36 anos, músico, 1x AWS Certified, em transição de carreira para DevOps`**
 
-Tenho 36 anos, sou músico e moro em Ferraz de Vasconcelos/SP. Sou formado em Tecnólógo em ADS (Anhanguera Unibero - 2010). Sempre fui apaixonado por tecnologia, e hoje estou no segundo semestre de <b>Bacharel em Tecnologia da Informação pela UNIVESP (Universidade Virtual do Estado de São Paulo)</b>.
+### 🚀 Sobre Mim
+* 🎓 Graduando em **Tecnologia da Informação na UNIVESP** (Universidade Virtual do Estado de São Paulo).
+* 🎓 Formado em **Tecnólogo em ADS na UNIVERO** (Anhanguera Unibero - 2010).
+* 🛡️ Certificado **AWS Certified Cloud Practitioner (CLF-C02)**.
+* 🛠️ Formado pelo programa **AWS re/Start** da Escola da Nuvem.
+* 📚 Atualmente aprofundando conhecimentos em **Cultura DevOps e Infraestrutura como Código (IaC)**.
+
 
 ---
-
-<img align="left" alt="GitHub Stats" 
-      src="https://github-readme-stats-green-pi-13.vercel.app/api/top-langs/?username=FilipeOliveira-Dev&layout=normal&hide_border=false&title_color=5dcbf3&text_color=ffffff&theme=dark" />
+### 📈 Estatísticas do GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FilipeOliveira-Dev&show_icons=true&title_color=5dcbf3&text_color=fff&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOliveira-Dev&layout=normal&title_color=5dcbf3&text_color=fff&theme=dark" alt="Linguagens Mais Usadas" height="180px"/>
 </p>
 
-![Filie Oliveira's GitHub stats](https://github-readme-stats-green-pi-13.vercel.app/api?username=FilipeOliveira-Dev&show_icons=true&hide_border=false&show=reviews&title_color=5dcbf3&text_color=ffffff&theme=dark)
 
-</br>
+---
+### 🛠️ Stack Técnica e Ferramentas em Evolução
 
-## 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Cloud Infrastructure** | AWS Services (EC2, S3, VPC, IAM, Lambda, ELB, Auto Scaling) |
+| **Sistemas Operacionais & Infra** | Linux, Windows, MacOS |
+| **Banco de Dados** | Banco de Dados, SQL |
+| **Containers & Automação** | Docker, Terraform, Git & GitHub, Activepieces |
+| **Desenvolvimento Web (Frontend)**| HTML, CSS, JavaScript, SASS, Tailwind CSS |
+| **Lógica & Ciência da Computação** | Estrutura de Dados, Algoritmos, Python |
+| **Metodologias & Processos** | SCRUM, Kanban, Cultura DevOps / SRE |
 
 
-## 📚 Plataformas de Estudo:
+---
+### 📚 Plataformas de Estudo:
 <div align="left">  
  <a href="https://cursos.alura.com.br/user/filipeosilvadev" target="_blank"><img src="https://img.shields.io/badge/-Alura-061833?style=for-the-badge&logo=alamy&logoColor=white"</a> 
  <a href="https://app.rocketseat.com.br/me/filipe-oliveira-dev" target="_blank"><img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost"</a> 
  <a href="https://www.freecodecamp.org/filipeoliveira" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"</a> 
 </div> 
+   
 
-<br/>
-
-  
-## 👨‍💻 Estudando no momento:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-
-
-<br/>
-
-## 📱 Contact:
+---
+### 📱 Contato:
 <div align="left">  
  <a href="https://www.linkedin.com/in/filipeoliveiradasilva/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
  <a href="https://www.instagram.com/filipeoliveiradev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href="mailto:filipe.osilvadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div> 
+
+
+---
+<p align="center">
+  <i>"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." - <b>Leonardo da Vinci</b></i>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5dcbf3&height=120&section=footer"/>
 
