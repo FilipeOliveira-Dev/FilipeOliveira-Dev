@@ -37,6 +37,14 @@
 
 
 ---
+### 🏅 Certificações Oficiais
+
+| Certificação | Credencial |
+| :--- | :--- |
+| **AWS Certified Cloud Practitioner**<br>_Amazon Web Services (AWS)_ | <a href="https://www.credly.com/badges/15389f07-3bd0-4bb1-9203-859bad012031/public_url" target="_blank" height="105"><img src="https://i.postimg.cc/bYF9qDss/image.png"/></a> |
+
+
+---
 ### 📚 Plataformas de Estudo:
 <div align="left">  
  <a href="https://cursos.alura.com.br/user/filipeosilvadev" target="_blank"><img src="https://img.shields.io/badge/-Alura-061833?style=for-the-badge&logo=alamy&logoColor=white"</a> 
