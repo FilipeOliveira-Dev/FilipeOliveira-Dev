@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5dcbf3&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Filipe+Oliveira!;Be+Welcome!+)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;Be+Welcome!+)](https://git.io/typing-svg) 
 
 # 👨🏻‍💻 Filipe Oliveira
 
-**`36 anos, músico, 1x AWS Certified, em transição de carreira para DevOps`**
+**`37 anos, 1x AWS Certified, em transição de carreira para Desenvolvimento/DevOps`**
 
 ### 🚀 Sobre Mim
 * 🎓 Graduando em **Tecnologia da Informação na UNIVESP** (Universidade Virtual do Estado de São Paulo).
@@ -17,8 +17,8 @@
 ---
 ### 📈 Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilipeOliveira-Dev&show_icons=true&rank_icon=github&title_color=5dcbf3&text_color=fff&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOliveira-Dev&layout=donut&title_color=5dcbf3&text_color=fff&theme=dark" alt="Linguagens Mais Usadas" height="180px"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=FilipeOliveira-Dev&show_icons=true&rank_icon=github&title_color=5dcbf3&text_color=fff&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FilipeOliveira-Dev&layout=donut&title_color=5dcbf3&text_color=fff&theme=dark" alt="Linguagens Mais Usadas" height="180px"/>
 </p>
 
 
